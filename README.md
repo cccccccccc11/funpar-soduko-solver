@@ -1,4 +1,4 @@
-## Goals
+## Overview
 The project aims to solve a Sudoku Puzzle using different solutions and compare their performances. We made 4 versions of them, 2 using parallel coding, and 2 using sequential using DFS and backtracking algorithms.
 
 ## Results
@@ -11,3 +11,7 @@ Our code works fine for the 9x9 grid, but when we try to make a 16x16 grid there
 Why is parallel faster than non-parallel?
 
 In a parallel program, multiple tasks can be executed at the same time, which can significantly reduce the overall workload compared to the sequential version. While sequential code uses a single thread, parallel code utilizes multiple CPU cores more efficiently, leading to better performance.
+
+## Contributors
+Chinanard Sathiseth 6481366
+Nontanapong Thanasetkorn 6481237

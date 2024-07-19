@@ -13,5 +13,5 @@ Why is parallel faster than non-parallel?
 In a parallel program, multiple tasks can be executed at the same time, which can significantly reduce the overall workload compared to the sequential version. While sequential code uses a single thread, parallel code utilizes multiple CPU cores more efficiently, leading to better performance.
 
 ## Contributors
-Chinanard Sathiseth 6481366
-Nontanapong Thanasetkorn 6481237
+- Chinanard Sathiseth 6481366
+- Nontanapong Thanasetkorn 6481237

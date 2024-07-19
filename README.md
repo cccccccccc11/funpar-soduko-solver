@@ -1,0 +1,1 @@
+# funpar-soduko-solver

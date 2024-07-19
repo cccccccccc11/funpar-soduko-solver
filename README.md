@@ -18,3 +18,6 @@ In a parallel program, multiple tasks can be executed at the same time, which ca
 ## Contributors
 - Chinanard Sathiseth 6481366
 - Nontanapong Thanasetkorn 6481237
+
+## Link to our presentation slides
+https://www.canva.com/design/DAGLOmj-4yE/a0qsLkxRNmRvvsTNZCdKIQ/edit?utm_content=DAGLOmj-4yE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

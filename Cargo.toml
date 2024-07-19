@@ -1,0 +1,9 @@
+[package]
+name = "funpar_sudoku_proejct"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10.0"
+crossbeam = "0.8.4"
+criterion = "0.5.1"
